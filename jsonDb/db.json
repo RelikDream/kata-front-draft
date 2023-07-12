@@ -1,0 +1,14 @@
+{
+  "customers": [
+    {"id": 1, "name": {"first": "Leroy", "last": "Walton"}},
+    {"id": 2, "name": {"first": "Shane", "last": "Garrett"}},
+    {"id": 3, "name": {"first": "Sheryl", "last": "Robinson"}},
+    {"id": 4, "name": {"first": "Fred", "last": "Bush"}},
+    {"id": 5, "name": {"first": "Julie", "last": "Dawson"}},
+    {"id": 6, "name": {"first": "Ervin", "last": "Vega"}},
+    {"id": 7, "name": {"first": "Emanuel", "last": "Watson"}},
+    {"id": 8, "name": {"first": "Fred", "last": "Sharp"}},
+    {"id": 9, "name": {"first": "Virginia", "last": "Hall"}},
+    {"id": 10, "name": {"first": "Carrie", "last": "Sanchez"}}
+  ]
+}
